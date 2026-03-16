@@ -79,3 +79,89 @@ Example visuals produced by the system:
 The result is an **interactive artificial vision interface** that responds to body movement and gestures.
 
 ---
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+---
+
+## Running the Sketches
+
+Run a sketch using **canvas-sketch**.
+
+### Neural Gesture Scanner
+
+```bash
+npx canvas-sketch Neural-Gesture-Scanner.js --open
+```
+
+### Neural Puzzle Scanner
+
+```bash
+npx canvas-sketch Neural-Puzzle-Scanner.js --open
+```
+
+### Neural X-Ray Pose Scanner
+
+```bash
+npx canvas-sketch Neural-X-Ray-Pose-Scanner.js --open
+```
+
+Make sure **webcam permission is enabled in your browser**.
+
+---
+
+## Controls
+
+### Keyboard
+
+```
+P → Save PNG
+R → Start recording
+S → Stop recording
+```
+
+Some sketches also include **gesture-based controls using MediaPipe Hands**.
+
+Parameters can also be adjusted in real time using the **Tweakpane control panel**.
+
+---
+
+## Inspiration
+
+This project is inspired by:
+
+- interactive computer vision
+- gesture-based interfaces
+- generative media art
+- experimental creative coding
+- AI visual systems
+- computer vision interfaces
+- surveillance camera aesthetics
+
+---
+
+## Possible Applications
+
+- Interactive installations
+- Live visual performances
+- Digital media art
+- Creative coding experiments
+- Computer vision prototypes
+- Media art performances
+- Generative visual research
+
+---
+
+## Author
+
+Creative coding & experimental computer vision project by **vansatt**
