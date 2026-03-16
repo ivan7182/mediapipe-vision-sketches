@@ -1,6 +1,6 @@
 # MediaPipe Vision Sketches
 
-Experimental **computer vision sketches** built using **MediaPipe**, **canvas-sketch**, and **HTML5 Canvas**.
+Experimental **computer vision sketches** built using **MediaPipe**, **canvas-sketch**
 
 This project explores different approaches to **interactive computer vision**, combining **hand tracking**, **pose detection**, and **real-time webcam manipulation** to create generative visual systems.
 
