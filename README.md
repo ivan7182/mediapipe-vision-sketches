@@ -64,7 +64,6 @@ Example visuals produced by the system:
 - **MediaPipe**
 - **canvas-sketch**
 - **Tweakpane**
-- **HTML5 Canvas**
 - **Webcam API**
 
 ---
@@ -80,3 +79,10 @@ Example visuals produced by the system:
 The result is an **interactive artificial vision interface** that responds to body movement and gestures.
 
 ---
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/mediapipe-vision-sketches.git
+
